@@ -10,8 +10,8 @@ It should take you around 2 hours to complete.
 
 * it should use Bootstrap and look decent on a mobile device ( don't spend too much time on styling details, just don't force mobile users to pinch-zoom please ;) )
 * there should be two different pages/views 
-  * one that shows the path of the moon for each city in a separate box
-  * another page that shows the path of the sun for each city in a separate box
+  * one that shows the path of the moon (as an image) for each city in a separate box
+  * another page that shows the path of the sun (as an image) for each city in a separate box
 * **it should have a detailed README that allows a step-by-step setup of the application on the interviewer's laptop.**
 
 ## Notes
