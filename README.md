@@ -4,7 +4,7 @@
 
 The goal is to create a small **React** application that uses the Wolfram Alpha API ( https://products.wolframalpha.com/api/documentation/ ) to display the path of the sun and the moon for six different cities.
 
-It should take you around 2 hours to complete. 
+It should take you around 2-3 hours to complete. 
 
 ## Requirements
 
