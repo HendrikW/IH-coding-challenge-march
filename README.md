@@ -19,7 +19,7 @@ It should take you around 2 hours to complete.
 * you can choose any six cities that you like.
 * any search query you can do via WolframAlpha you can also do via their API. ( e.g. https://www.wolframalpha.com/input/?i=sun+berlin and https://www.wolframalpha.com/input/?i=moon+berlin )
 * you can sign up via http://developer.wolframalpha.com/ -> it's free, just type in a name/email and a description for your app etc. (e.g. "testing"). 
-* you should use the **JSON** variant of the API (`format=json`)
+* you should use the **JSON** variant of the API (`output=json`)
 * it's going to be a completely public page, so no user/login required.
 
 ## first Bonus
