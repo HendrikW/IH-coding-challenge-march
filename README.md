@@ -6,6 +6,8 @@ The goal is to create a small **React** application that uses the Wolfram Alpha 
 
 It should take you around 2-3 hours to complete. (This estimation assumes you have worked with `create-react-app` and basic bootstrap grids recently, so if you need to learn / refresh about these tools it will add to the time needed to complete this exercise).
 
+You can look at the expected view for the moon in Berlin here : https://github.com/HendrikW/IH-coding-challenge-march/blob/master/screen_recording_moon.mov?raw=true .. sun path and other cities should work accordingly :-)
+
 ## Requirements
 
 * it should use Bootstrap and look decent on a mobile device ( don't spend too much time on styling details, just don't force mobile users to pinch-zoom please ;) )
